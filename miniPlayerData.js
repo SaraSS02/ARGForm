@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
-    "fullscreenInfoWording": "This program will launch in fullscreen",
+    "launchAppWording": "Then Launch Project",
     "title": "ARG",
     "thanksForWatchingWording": "Thanks for watching!",
-    "launchAppWording": "Then Launch Project",
+    "description": "",
+    "downloadAppWording": "Download App",
     "resumePlaybackWording": "Resume playback?",
     "redirectToMobileApp": "always",
-    "downloadAppWording": "Download App",
     "yesWording": "Yes",
     "url": "",
+    "fullscreenInfoWording": "This program will launch in fullscreen",
     "noWording": "No",
     "thumbnail": "Medias/Photos/PHOTO-2024-05-21-13-17-32.jpg",
-    "analyticsKey": "",
-    "description": ""
+    "analyticsKey": ""
 }
