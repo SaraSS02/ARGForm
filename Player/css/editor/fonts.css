@@ -219,21 +219,21 @@
 }
 
 @font-face {
-	font-family: Simonetta;
-	font-weight: normal;
-	font-style: normal;
-	src: url('fonts/Simonetta-Regular.eot');
-	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
-	     url('fonts/Simonetta-Regular.ttf') format('truetype');
-}
-
-@font-face {
 	font-family: Crimson Text;
 	font-weight: bold;
 	font-style: normal;
 	src: url('fonts/CrimsonText-Bold.eot');
 	src: url('fonts/CrimsonText-Bold.eot?#iefix') format('embedded-opentype'),
 	     url('fonts/CrimsonText-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: Simonetta;
+	font-weight: normal;
+	font-style: normal;
+	src: url('fonts/Simonetta-Regular.eot');
+	src: url('fonts/Simonetta-Regular.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/Simonetta-Regular.ttf') format('truetype');
 }
 
 @font-face {
